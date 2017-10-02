@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Thomas J Goonan
 
 You can use the [editor on GitHub](https://github.com/thomasjgoonan/thomasjgoonan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
